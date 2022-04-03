@@ -8,4 +8,4 @@ Hi there 👋 I am Vianney, currently living in Seoul.
 - 📫 How to reach me: by email vianney.meri@gmail.com or Insta: yoonj2hoo
 - ⚡ Fun fact: knows to speak Korean and Taekkyon.
  
-https://github-readme-stats.vercel.app/api?username=Vianney89&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Vianney89&theme=radical
